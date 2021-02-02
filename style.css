@@ -1,0 +1,11 @@
+.center-form{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn-second{
+    background-color: #BA6B6C !important;
+    border-color: #BA6B6C !important;
+    color: white !important;
+}
